@@ -2,12 +2,20 @@
 
 <img src="https://user-images.githubusercontent.com/58636468/106131159-ce174500-610e-11eb-8d35-a45cacdcb907.jpg">
 
+## What Is This Tool About??
+
+This Tool Is Just A Simple Python Based Program Which Fetches Out The Requested IP's Information Like Internet Service Provider(ISP) And It's Geolocation.
+It Supports Both IPv4 and IPv6.
+[This program is licensed under MIT](https://github.com/nandydark/thedarkeye/blob/main/LICENSE)
+
+
 # Requirements
-```Just Python And A Linux Environment Is Required For Running This Script :)
+Just Python(Not Python3) And A Linux Environment Is Required For Running This Script :)
 
-# COMMANDS FOR SOME SCRIPT KIDDY
+# COMMANDS FOR SCRIPT KIDDIES
 
-git clone https://github.com/nandydark/thedarkeye
+```
+git clone https://github.com/nandydark/thedarkeye.git
 
 cd thedarkeye
 
