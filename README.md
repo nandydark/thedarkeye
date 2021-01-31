@@ -8,6 +8,9 @@ This Tool Is Just A Simple Python Based Program Which Fetches Out The Requested 
 It Supports Both IPv4 and IPv6.
 [This program is licensed under MIT](https://github.com/nandydark/thedarkeye/blob/main/LICENSE)
 
+# Youtube video on it
+<a href="https://youtu.be/FK5XzxFzaA8"><img src="https://img.shields.io/badge/How%20To%20Use-OFFICIAL VIDEO-blue.svg?logo=Youtube"></a>
+<a href="https://youtu.be/FK5XzxFzaA8"><img src="https://img.shields.io/youtube/views/FK5XzxFzaA8?style=social">
 
 # Requirements
 Just Python(Not Python3) And A Linux Environment Is Required For Running This Script :)
